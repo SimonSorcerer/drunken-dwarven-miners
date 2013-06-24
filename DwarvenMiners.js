@@ -18,7 +18,7 @@ DwarvenMiners.start = function(){
     var grid = {
         x: 10,
         y: 15,
-        size: 36,
+        size: 48,
         getSpriteSize: function() { return this.size },
         getWidth: function() { return this.x },
         getHeight: function() { return this.y },
